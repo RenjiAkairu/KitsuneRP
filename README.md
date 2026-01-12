@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Beta-orange)
 
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Platform](https://img.shields.io/badge/Linux-Planned-yellow)
+![Platform](https://img.shields.io/badge/macOS-Not%20Planned-lightgrey)
+
 ## ✨ Preview
 See KitsuneRP in action!
 
@@ -18,6 +22,13 @@ This project provides a customizable Discord Rich Presence (RP) with a modern, d
 
 * **Concept & Logic Design:** Renji
 * **Implementation:** Assisted by AI (Antigravity/Gemini) focusing on modern UI/UX and OOP practices.
+
+---
+
+## 💻 Compatibility / Supported Platforms
+* ✅ **Windows:** Fully supported (Download .exe in Releases)
+* 🚧 **Linux:** Planned (Currently works via Source Code)
+* ❌ **macOS:** Not planned yet (Requires specific hardware/license)
 
 ---
 
@@ -54,6 +65,8 @@ To use this app, you need a **Discord Application ID**. It's free and takes 1 mi
 3.  Run the app (You might need to "Run anyway" if Windows Defender warns you).
 
 ### Option 2: Run from Source (For Developers)
+"Compatible with Windows, Linux, and macOS (Python 3.10+ required)"
+
 If you prefer running the Python script directly:
 
 1.  Clone this repository.
