@@ -1,4 +1,4 @@
-# 🦊 KitsuneRPC
+# 🦊 KitsuneRP
 
 **A modern Discord Rich Presence tool designed by Renji, powered by AI-Assisted Development.**
 
@@ -6,8 +6,15 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Beta-orange)
 
+## ✨ Preview
+See KitsuneRP in action!
+
+| Application Interface | Discord Profile Result |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/df6a0d26-6452-45d6-8152-f22825c875b1" width="450" /> | <img src="https://github.com/user-attachments/assets/0a46deb6-3b5b-402b-9951-09bb7284386f" width="220" /> |
+
 ## 📖 About
-This project provides a customizable Discord Rich Presence (RPC) with a modern, dark-themed UI built using **CustomTkinter**. It features a preset management system, allowing you to switch between different statuses easily.
+This project provides a customizable Discord Rich Presence (RP) with a modern, dark-themed UI built using **CustomTkinter**. It features a preset management system, allowing you to switch between different statuses easily.
 
 * **Concept & Logic Design:** Renji
 * **Implementation:** Assisted by AI (Antigravity/Gemini) focusing on modern UI/UX and OOP practices.
@@ -43,7 +50,7 @@ To use this app, you need a **Discord Application ID**. It's free and takes 1 mi
 
 ### Option 1: Download .exe (Easiest)
 1.  Go to the **Releases** page on this repository.
-2.  Download `KitsuneRPC.exe`.
+2.  Download `KitsuneRP.exe`.
 3.  Run the app (You might need to "Run anyway" if Windows Defender warns you).
 
 ### Option 2: Run from Source (For Developers)
