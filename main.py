@@ -8,7 +8,7 @@ import os
 import tkinter as tk # For context menu
 
 # --- Constants & Configuration ---
-APP_TITLE = "KitsuneRPC by Renji"
+APP_TITLE = "KitsuneRP by Renji"
 GEOMETRY = "900x600"
 
 #Dark Theme Colors
@@ -153,7 +153,7 @@ class RPCApp(ctk.CTk):
         # App Title / Client ID Label
         self.brand_label = ctk.CTkLabel(
             self.sidebar, 
-            text="KitsuneRPC", 
+            text="KitsuneRP", 
             font=("Arial", 18, "bold"), 
             text_color=COLOR_TEXT_MAIN,
             anchor="w"
